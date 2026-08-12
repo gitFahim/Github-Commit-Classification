@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange.svg)](https://scikit-learn.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)](https://pytorch.org/)
-[![CI](https://github.com/Mehedi-909/commit-classification/actions/workflows/ci.yml/badge.svg)](https://github.com/Mehedi-909/commit-classification/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Reproduction & extension of the PROMISE 2017 paper:**  
@@ -231,9 +230,8 @@ See [`.github/workflows/ci.yml`](.github/workflows/ci.yml).
 
 ---
 
-## Authors
+## Author
 
-- **Mehedi Hasan** — [@Mehedi-909](https://github.com/Mehedi-909)
 - **Fahim** — Software Engineer, Samsung R&D Bangladesh
 
 ---
