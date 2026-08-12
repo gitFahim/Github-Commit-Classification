@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "C:\Projects\commit-classification\commit-classification\scripts\train_sklearn.py", line 13, in <module>
+    from sklearn.model_selection import train_test_split
+  File "C:\Projects\commit-classification\commit-classification\.venv\Lib\site-packages\sklearn\__init__.py", line 69, in <module>
+    from sklearn import __check_build, _distributor_init  # noqa: E402 F401
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\commit-classification\commit-classification\.venv\Lib\site-packages\sklearn\_distributor_init.py", line 14, in <module>
+    from ctypes import WinDLL
+  File "C:\Users\fahim\AppData\Local\Programs\Python\Python311\Lib\ctypes\__init__.py", line 8, in <module>
+    from _ctypes import Union, Structure, Array
+ImportError: DLL load failed while importing _ctypes: An internal error occurred.

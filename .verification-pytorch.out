@@ -1,0 +1,10 @@
+Loading dataset from data/raw/dataset.csv...
+Loaded 1151 commits
+Feature strategy: combined
+Feature matrix shape: (1151, 68)
+Input dimension: 68
+
+Training PyTorch model for 1 epochs...
+Using device: cpu
+Epoch 01/1 | Train Loss: 1.2700 | Train Acc: 0.3149 | Val Loss: 1.2472 | Val Acc: 0.2775
+Training history plot saved to results\verification-pytorch-complete\figures\training_history_combined.png
